@@ -16,7 +16,7 @@ Control:
  * Pause, Close pin code lock — Esc
  * Exit at the end of the level — F
    
-For TESTING the game you need download folder for your OS and open .exe file (on Windows)
+For PLAYING the game you need download folder for your OS and open .exe file (on Windows)
 
 Game-related video content:
 
